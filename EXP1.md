@@ -73,19 +73,25 @@ def iterate():
 iterate() 
 Output:
 Do While:
-stl- EX 1 a
+![image](https://github.com/user-attachments/assets/08c4e7c3-ea1f-4549-ad53-3197463ffb1f)
+
+
 
 While Do:
-stl- EX 1 b
+![image](https://github.com/user-attachments/assets/123d7ad7-cd6a-427b-9af7-028d469b27c9)
+
 
 Switch:
-stl- EX 1 c
+![image](https://github.com/user-attachments/assets/b9e65971-1d8c-48f6-9eaf-38955fd54e12)
+
 
 If Else:
-stl- EX 1 d
+![image](https://github.com/user-attachments/assets/fb4f9594-ef11-445b-9c37-7144cc3362b3)
+
 
 For:
-stl- EX 1 e
+![image](https://github.com/user-attachments/assets/c97d6b6d-ad84-4880-80eb-a244acc570a1)
+
 
 Result:
 Thus, the python program to demonstrate the working of given constructs is implemented and the output is verified successfully.
